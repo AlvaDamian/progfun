@@ -1,0 +1,169 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes
+compile options:
+10 items
+0 -> -javabootclasspath
+1 -> C:\Users\DAMIAN\Desktop\eclipse-scala\jre\lib\resources.jar;C:\Users\DAMIAN\Desktop\eclipse-scala\jre\lib\rt.jar;C:\Users\DAMIAN\Desktop\eclipse-scala\jre\lib\jsse.jar;C:\Users\DAMIAN\Desktop\eclipse-scala\jre\lib\jce.jar;C:\Users\DAMIAN\Desktop\eclipse-scala\jre\lib\charsets.jar;C:\Users\DAMIAN\Desktop\eclipse-scala\jre\lib\jfr.jar;C:\Users\DAMIAN\Desktop\eclipse-scala\jre\lib\ext\access-bridge-64.jar;C:\Users\DAMIAN\Desktop\eclipse-scala\jre\lib\ext\dnsns.jar;C:\Users\DAMIAN\Desktop\eclipse-scala\jre\lib\ext\jaccess.jar;C:\Users\DAMIAN\Desktop\eclipse-scala\jre\lib\ext\localedata.jar;C:\Users\DAMIAN\Desktop\eclipse-scala\jre\lib\ext\sunec.jar;C:\Users\DAMIAN\Desktop\eclipse-scala\jre\lib\ext\sunjce_provider.jar;C:\Users\DAMIAN\Desktop\eclipse-scala\jre\lib\ext\sunmscapi.jar;C:\Users\DAMIAN\Desktop\eclipse-scala\jre\lib\ext\zipfs.jar
+2 -> -javaextdirs
+3 ->  
+4 -> -bootclasspath
+5 -> C:\Users\DAMIAN\Desktop\eclipse-scala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+6 -> -deprecation
+7 -> -feature
+8 -> -encoding
+9 -> UTF-8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+25 items
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$1.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$10$$anonfun$19.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$10.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$11$$anonfun$20.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$11.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$12$$anonfun$21$$anonfun$apply$1.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$12$$anonfun$21.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$12.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$13$$anonfun$22$$anonfun$apply$2.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$13$$anonfun$22.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$13.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$14.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$2$$anonfun$15.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$2.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$3$$anonfun$16.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$3.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$4.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$5.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$6.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$7.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$8$$anonfun$17.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$8.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$9$$anonfun$18.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$9.class
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite.class
+binary dependencies:
+4 items
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> C:\Users\DAMIAN\Desktop\eclipse-scala\jre\lib\rt.jar
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> C:\Users\DAMIAN\Desktop\eclipse-scala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\lib_managed\jars\junit\junit\junit-4.10.jar
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> D:\workspace-scala\progfun-lazy-Evaluation\lib_managed\jars\org.scalatest\scalatest_2.11\scalatest_2.11-3.0.0-SNAP4.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+1 items
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStream$
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+25 items
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$1
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$10
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$10$$anonfun$19
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$11
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$11$$anonfun$20
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$12
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$12$$anonfun$21
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$12$$anonfun$21$$anonfun$apply$1
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$13
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$13$$anonfun$22
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$13$$anonfun$22$$anonfun$apply$2
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$14
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$2
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$2$$anonfun$15
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$3
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$3$$anonfun$16
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$4
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$5
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$6
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$7
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$8
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$8$$anonfun$17
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$9
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> utils.MyStreamSuite$$anonfun$9$$anonfun$18
+used names:
+0 items
+product stamps:
+25 items
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$1.class -> lastModified(1508366833007)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$10$$anonfun$19.class -> lastModified(1508366833015)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$10.class -> lastModified(1508366833012)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$11$$anonfun$20.class -> lastModified(1508366833022)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$11.class -> lastModified(1508366833019)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$12$$anonfun$21$$anonfun$apply$1.class -> lastModified(1508366833033)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$12$$anonfun$21.class -> lastModified(1508366833030)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$12.class -> lastModified(1508366833027)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$13$$anonfun$22$$anonfun$apply$2.class -> lastModified(1508366833045)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$13$$anonfun$22.class -> lastModified(1508366833042)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$13.class -> lastModified(1508366833038)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$14.class -> lastModified(1508366833050)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$2$$anonfun$15.class -> lastModified(1508366833070)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$2.class -> lastModified(1508366833054)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$3$$anonfun$16.class -> lastModified(1508366833079)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$3.class -> lastModified(1508366833075)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$4.class -> lastModified(1508366833084)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$5.class -> lastModified(1508366833089)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$6.class -> lastModified(1508366833093)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$7.class -> lastModified(1508366833097)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$8$$anonfun$17.class -> lastModified(1508366833105)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$8.class -> lastModified(1508366833102)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$9$$anonfun$18.class -> lastModified(1508366833112)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite$$anonfun$9.class -> lastModified(1508366833109)
+D:\workspace-scala\progfun-lazy-Evaluation\target\scala-2.10\test-classes\utils\MyStreamSuite.class -> lastModified(1508366833000)
+source stamps:
+1 items
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> hash(0d88554b995335d462b029cca110524f55acc694)
+binary stamps:
+4 items
+C:\Users\DAMIAN\Desktop\eclipse-scala\jre\lib\rt.jar -> lastModified(1430180223138)
+C:\Users\DAMIAN\Desktop\eclipse-scala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> lastModified(1504214924000)
+D:\workspace-scala\progfun-lazy-Evaluation\lib_managed\jars\junit\junit\junit-4.10.jar -> lastModified(1399295350000)
+D:\workspace-scala\progfun-lazy-Evaluation\lib_managed\jars\org.scalatest\scalatest_2.11\scalatest_2.11-3.0.0-SNAP4.jar -> lastModified(1428551072000)
+class names:
+4 items
+C:\Users\DAMIAN\Desktop\eclipse-scala\jre\lib\rt.jar -> java.lang.Object
+C:\Users\DAMIAN\Desktop\eclipse-scala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> scala.Function0
+D:\workspace-scala\progfun-lazy-Evaluation\lib_managed\jars\junit\junit\junit-4.10.jar -> org.junit.runner.RunWith
+D:\workspace-scala\progfun-lazy-Evaluation\lib_managed\jars\org.scalatest\scalatest_2.11\scalatest_2.11-3.0.0-SNAP4.jar -> org.scalatest.Assertions
+internal apis:
+1 items
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCFpHrLAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXQAEEx4c2J0aS9hcGkvVHlwZTt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAcTAAFdmFsdWVxAH4AHHhwdAAFdmFsdWV0AChjbGFzc09mW29yZy5zY2FsYXRlc3QuanVuaXQuSlVuaXRSdW5uZXJdc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHQAB1J1bldpdGhzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AC9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA29yZ3NxAH4AO3QABWp1bml0c3EAfgA7dAAGcnVubmVyc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ADxzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABN1dGlscy5NeVN0cmVhbVN1aXRldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAnc2NhbGEucmVmbGVjdC5tYWNyb3MuaW50ZXJuYWwubWFjcm9JbXBsc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4AL3BzcQB+AFEBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4AMHNxAH4AUQF1cQB+ABAAAAAAcHNxAH4AUQF1cQB+ABAAAAAAcHNxAH4AUQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAEHNxAH4ALXQACEZ1blN1aXRlc3EAfgAzc3EAfgA2dXEAfgA5AAAAA3NxAH4AO3QAA29yZ3NxAH4AO3QACXNjYWxhdGVzdHEAfgBEc3EAfgAtdAAMRnVuU3VpdGVMaWtlcQB+AGRzcQB+AC10AAxDbGFzc2ljVGVzdHNxAH4AZHNxAH4ALXQAFEZ1blN1aXRlUmVnaXN0cmF0aW9ucQB+AGRzcQB+AC10AAtEb2N1bWVudGluZ3EAfgBkc3EAfgAtdAAIQWxlcnRpbmdxAH4AZHNxAH4ALXQACU5vdGlmeWluZ3EAfgBkc3EAfgAtdAAJSW5mb3JtaW5ncQB+AGRzcQB+AC10ABBUZXN0UmVnaXN0cmF0aW9ucQB+AGRzcQB+AC10AAVTdWl0ZXEAfgBkc3EAfgAtdAAMU2VyaWFsaXphYmxlc3EAfgAzc3EAfgA2dXEAfgA5AAAAA3NxAH4AO3QABGphdmFzcQB+ADt0AAJpb3EAfgBEc3EAfgAtdAAKQXNzZXJ0aW9uc3EAfgBkc3EAfgAtdAAMVHJpcGxlRXF1YWxzc3EAfgAzc3EAfgA2dXEAfgA5AAAAA3NxAH4AO3QAA29yZ3NxAH4AO3QACXNjYWxhY3RpY3EAfgBEc3EAfgAtdAAORXF1YWxpdHlQb2xpY3lxAH4AinNxAH4ALXQABk9iamVjdHNxAH4AM3NxAH4ANnVxAH4AOQAAAANzcQB+ADtxAH4Ag3NxAH4AO3QABGxhbmdxAH4ARHNxAH4ALXQAA0FueXNxAH4AM3NxAH4ANnVxAH4AOQAAAAJzcQB+ADt0AAVzY2FsYXEAfgBEcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAceHB0AAV1dGlsc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXzGrTRB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdABJRDpcd29ya3NwYWNlLXNjYWxhXHByb2dmdW4tbGF6eS1FdmFsdWF0aW9uXHRhcmdldFxzY2FsYS0yLjEwXHRlc3QtY2xhc3Nlc3QAOUQ6XHdvcmtzcGFjZS1zY2FsYVxwcm9nZnVuLWxhenktRXZhbHVhdGlvblxzcmNcdGVzdFxzY2FsYXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAUDYhVS5lTNdRisCnMoRBST1WsxpQ=
+external apis:
+1 items
+utils.MyStream$ -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCh0VA4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAOdXRpbHMuTXlTdHJlYW11cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AC4Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+ABVMAAlpbmhlcml0ZWRxAH4AFUwAB3BhcmVudHNxAH4AFXhxAH4ANXNxAH4ALgF1cQB+ABAAAAAAcHNxAH4ALgF1cQB+ABAAAAAAcHNxAH4ALgF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AHEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ADR0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AE10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AE5zcQB+AEF0AANBbnlzcQB+AEVzcQB+AEh1cQB+AEsAAAACc3EAfgBNdAAFc2NhbGFxAH4AVHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4AHHhwdAAFdXRpbHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV8xqzq9dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQAREQ6XHdvcmtzcGFjZS1zY2FsYVxwcm9nZnVuLWxhenktRXZhbHVhdGlvblx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAA5RDpcd29ya3NwYWNlLXNjYWxhXHByb2dmdW4tbGF6eS1FdmFsdWF0aW9uXHNyY1xtYWluXHNjYWxhdXIAAltCrPMX+AYIVOACAAB4cAAAABRfOhoccHpaA5KiCAdhqfJDoTAltg==
+source infos:
+1 items
+D:\workspace-scala\progfun-lazy-Evaluation\src\test\scala\utils\MyStreamSuite.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXzGae4V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUQ6XHdvcmtzcGFjZS1zY2FsYVxwcm9nZnVuLWxhenktRXZhbHVhdGlvblx0YXJnZXRcc2NhbGEtMi4xMFx0ZXN0LWNsYXNzZXN0ADlEOlx3b3Jrc3BhY2Utc2NhbGFccHJvZ2Z1bi1sYXp5LUV2YWx1YXRpb25cc3JjXHRlc3Rcc2NhbGE=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXzGkx/F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUQ6XHdvcmtzcGFjZS1zY2FsYVxwcm9nZnVuLWxhenktRXZhbHVhdGlvblx0YXJnZXRcc2NhbGEtMi4xMFx0ZXN0LWNsYXNzZXN0ADlEOlx3b3Jrc3BhY2Utc2NhbGFccHJvZ2Z1bi1sYXp5LUV2YWx1YXRpb25cc3JjXHRlc3Rcc2NhbGE=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXzGpUJd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUQ6XHdvcmtzcGFjZS1zY2FsYVxwcm9nZnVuLWxhenktRXZhbHVhdGlvblx0YXJnZXRcc2NhbGEtMi4xMFx0ZXN0LWNsYXNzZXN0ADlEOlx3b3Jrc3BhY2Utc2NhbGFccHJvZ2Z1bi1sYXp5LUV2YWx1YXRpb25cc3JjXHRlc3Rcc2NhbGE=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXzGrTRB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASUQ6XHdvcmtzcGFjZS1zY2FsYVxwcm9nZnVuLWxhenktRXZhbHVhdGlvblx0YXJnZXRcc2NhbGEtMi4xMFx0ZXN0LWNsYXNzZXN0ADlEOlx3b3Jrc3BhY2Utc2NhbGFccHJvZ2Z1bi1sYXp5LUV2YWx1YXRpb25cc3JjXHRlc3Rcc2NhbGE=
